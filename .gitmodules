@@ -1,0 +1,3 @@
+[submodule "CV_project/cvat"]
+	path = CV_project/cvat
+	url = https://github.com/cvat-ai/cvat
